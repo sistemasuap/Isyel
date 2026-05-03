@@ -48,8 +48,8 @@ Página web interactiva que narra la historia de amor de **Elmer Marcelino De la
 📁 elmer-maria-isabel/
 │
 ├── index.html      ← Estructura y contenido HTML
-├── styles.css      ← Estilos, animaciones y diseño
-├── main.js         ← Lógica: cursor, estrellas, pétalos, contadores
+├── style.css      ← Estilos, animaciones y diseño
+├── style.js         ← Lógica: cursor, estrellas, pétalos, contadores
 └── README.md       ← Este archivo
 ```
 
